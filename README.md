@@ -10,7 +10,7 @@
 
 - Medalla de Oro en la Septima Olimpiada de Matemática **Luis A. Campistrous Péres**.
 - 10mo lugar en **ICPC-2021 Caribbean Finals (Qualifier)**, certificado, <a href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2022-Caribbean%20Finals%20Qualifier-Raudel%20Alejandro%20G%C3%B3mez%20Molina-PLACE.pdf">The 2021 ICPC Caribbean Finals (Qualifier)</a>.
-- 10mo lugar 10mo lugar en **ICPC-2021 Caribbean Finals**, certificado, <a href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2022-Caribbean%20Finals-Raudel%20Alejandro%20G%C3%B3mez%20Molina-PLACE.pdf">The 2021 ICPC Caribbean Finals</a>.
+- 10mo lugar en **ICPC-2021 Caribbean Finals**, certificado, <a href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2022-Caribbean%20Finals-Raudel%20Alejandro%20G%C3%B3mez%20Molina-PLACE.pdf">The 2021 ICPC Caribbean Finals</a>.
 
 ### Examen de Premio
 
@@ -37,3 +37,9 @@
 - Proyecto de Númerica (Feria de Interpolación) <a href="https://github.com/raudel25/Game-with-Interpolation.git">Game-with-Interpolation</a>.
 - Proyecto de Númerica (Feria de Ceros de Funciones) <a href="https://github.com/raudel25/System-of-Equations.git">System-of-Equations</a>.
 - Proyecto de AC <a href="https://github.com/raudel25/AC-Project.git">AC-Project</a>.
+
+## 1er Semestre 3ro
+
+### Concursos
+
+- 5to lugar en **ICPC-2021 Caribbean Finals (Qualifier)**, certificado, <a href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2023-Caribbean%20Finals%20Qualifier-Raudel%20Alejandro%20G%C3%B3mez%20Molina-PLACE.pdf">The 2022 ICPC Caribbean Finals (Qualifier)</a>.
