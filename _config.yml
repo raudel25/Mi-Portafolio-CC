@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal # el tema del sitio
 title: Mi-Portafolio-CC # el título del sitio
-description: Sitio Web para mostrar mi recorrido como estudiante de Ciencias de la Computación # la descripción del sitio
+description: Proyectos, Trabajos y Concursos desarrollados como estudiante de Ciencias de la Computación # la descripción del sitio
+logo: /logo.jpg
