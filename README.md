@@ -49,9 +49,21 @@
 
 ### Concursos
 
-- 5to lugar en **ICPC-2021 Caribbean Finals (Qualifier)**, certificado, <a href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2023-Caribbean Finals Qualifier-Raudel Alejandro Gómez Molina-PLACE.pdf">The 2022 ICPC Caribbean Finals (Qualifier)</a>.
+- 5to lugar en **ICPC-2022 Caribbean Finals (Qualifier)**, certificado, <a href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2023-Caribbean Finals Qualifier-Raudel Alejandro Gómez Molina-PLACE.pdf">The 2022 ICPC Caribbean Finals (Qualifier)</a>.
 - 12mo lugar en **ICPC-2022 Caribbean Finals**, certificado, <a href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2023-Caribbean Finals-Raudel Alejandro Gómez Molina-PLACE.pdf">The 2022 ICPC Caribbean Finals</a>.
 
 ### Jornada Científica Estudiantil
 
 - Comparación de Implementaciones Numéricas <a href="https://github.com/raudel25/Arithmetic.git">Arithmetic</a>.
+
+## 2do Semestre 3er Año
+
+### Proyectos
+
+- Proyecto de Ingeniería de Software - Base de Datos <a href="https://github.com/Jara-Devs/Travel-Agency.git">Travel Agency</a>.
+- Proyecto de Optimización <a href="https://github.com/alexsierra45/optimization-project.git">Optimization Project</a>
+
+### Concursos
+
+- 5to lugar en **ICPC-2023 Caribbean Finals (Qualifier)**, certificado, <a href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2024-Caribbean Finals Qualifier-Raudel Alejandro Gómez Molina-PLACE.pdf">The 2023 ICPC Caribbean Finals (Qualifier)</a>.
+- 2do lugar (Medalla de Plata) en **ICPC-2023 Caribbean Finals**, certificado, <a download="medal.pdf" href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2024-Caribbean Finals-Raudel Alejandro Gómez Molina-MEDAL.pdf">The 2023 ICPC Caribbean Finals</a>.
