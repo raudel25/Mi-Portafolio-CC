@@ -1,4 +1,4 @@
-# Mi-Portafolio-CC
+# Raudel Alejandro Gómez Molina
 
 ## 1er Semestre 1er Año
 
@@ -62,8 +62,9 @@
 
 - Proyecto de Ingeniería de Software - Base de Datos <a href="https://github.com/Jara-Devs/Travel-Agency.git">Travel Agency</a>.
 - Proyecto de Optimización <a href="https://github.com/alexsierra45/optimization-project.git">Optimization Project</a>
+- Proyecto de Redes <a href="https://github.com/raudel25/VPN-Server.git">VPN Server</a>
 
 ### Concursos
 
 - 5to lugar en **ICPC-2023 Caribbean Finals (Qualifier)**, certificado, <a href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2024-Caribbean Finals Qualifier-Raudel Alejandro Gómez Molina-PLACE.pdf">The 2023 ICPC Caribbean Finals (Qualifier)</a>.
-- 2do lugar (Medalla de Plata) en **ICPC-2023 Caribbean Finals**, certificado, <a download="medal.pdf" href="https://github.com/raudel25/Mi-Portafolio-CC/blob/main/Datos/ICPC/2024-Caribbean Finals-Raudel Alejandro Gómez Molina-MEDAL.pdf">The 2023 ICPC Caribbean Finals</a>.
+- 2do lugar (Medalla de Plata) en **ICPC-2023 Caribbean Finals**, certificado, <a download="medal.pdf" href="/Datos/ICPC/2024-Caribbean Finals-Raudel Alejandro Gómez Molina-MEDAL.pdf">The 2023 ICPC Caribbean Finals</a>.
